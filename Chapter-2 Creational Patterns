@@ -1,0 +1,7 @@
+Creational patterns define most flexible way of creating objects according to the situation.
+Types of Creational Patterns are:
+        a. Singleton Pattern
+        b. Factory Pattern
+        c. Abstract Factory Pattern
+        d. Builder Pattern
+        e. Prototype Pattern

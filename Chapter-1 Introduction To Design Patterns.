@@ -1,0 +1,11 @@
+What are Design Patterns?
+Design Patterns provide a reusable skeleton for a project, by using which one can create projects more robust and maintainable.
+
+Types of Design Patterns.
+The Types of Design Patterns are:
+            a. Creational Design Patterns
+            b. Structural Design Patterns
+            c. Behavioral Design Patterns
+
+Why do we need Design Patterns?
+Using Design Patterns will help the project to be more structured and helps to maintain a project more effectively.

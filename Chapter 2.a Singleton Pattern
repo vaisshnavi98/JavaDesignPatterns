@@ -1,0 +1,11 @@
+Singleton patterns tells that only one object/one instance can be created for a particular and only it can be used to access the class.
+This single instance of the class acts as global access point to the class.
+This way we can have control the access to the shared resource.
+This cannot be implemented by using a regular constructor.
+The singleton patterns allows us to have a global object and protects it at the same time from being overwritten.
+
+Implentation of Singleton Pattern:
+1. Make your default constructor private , to prevent other objects from using new operator with singleton class.
+2. Create a static creation method that acts as a constructor, through which the method calls the private constructor to create an ovject and saves it in a static field.All calls to the method return this cached object.
+
+Example: Government is a perfect example of singleton pattern , a country can have only one governement official regardless of how many people will be in that post.
