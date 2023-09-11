@@ -1,0 +1,5 @@
+Builder pattern solves some of the problems with factory and abstract factory design patterns when the object contains lot of
+attributes.
+The issue is solved with a large number of optional parameters and inconsistent state by providing a way to build
+the object step-by-step and provide a method that will actually return the final object.
+This helps to produce the different types of representations for a object.
